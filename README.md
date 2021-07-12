@@ -1,1 +1,1 @@
-# DUCTproject.github.io
+# DUCTProject.github.io
