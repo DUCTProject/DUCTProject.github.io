@@ -60,3 +60,9 @@ h5 {
 	margin-top: 10%;
 }
 
+
+.bg-nav {
+    background-color: #51344d;
+    font-family: 'Kollektif';
+    padding-left:  10px;
+}
